@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Indra Gunawan</title>
+    <link>https://indra.my.id/post/index.xml</link>
+    <description>Recent content in Post-rsses on Indra Gunawan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 10 Nov 2016 18:26:33 +0700</lastBuildDate>
+    <atom:link href="https://indra.my.id/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://indra.my.id/2016/11/hello-world/</link>
+      <pubDate>Thu, 10 Nov 2016 18:26:33 +0700</pubDate>
+      
+      <guid>https://indra.my.id/2016/11/hello-world/</guid>
+      <description>&lt;p&gt;
+&lt;div class=&#34;pure-u-1-1&#34;&gt;
+  &lt;img class=&#34;pure-img&#34; src=&#34;https://indra.my.id/img/post/2016-11-hello-world.jpg&#34; alt=&#34;Hello World&#34;&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
